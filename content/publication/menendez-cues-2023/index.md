@@ -1,0 +1,62 @@
+---
+title: 'Cues to generality: Integrating linguistic and visual information when generalizing
+  biological information'
+authors:
+- David Menendez
+date: '2023-09-01'
+publishDate: '2025-09-02T23:34:32.721603Z'
+publication_types:
+- article-journal
+publication: '*Journal of Educational Psychology*'
+doi: 10.1037/edu0000812
+abstract: 'During instruction, students are typically presented with new information
+  through several modalities, such as language and images. Students need to attend
+  to these different modalities and integrate the information in both in order to
+  learn and generalize from instruction. Many studies have shown that the features
+  of each modality, such as the use of generic noun phrases or perceptually bland
+  visualizations, influence how much students generalize. However, few studies have
+  manipulated both the linguistic and visual information to examine how students integrate
+  the two modalities and how they generalize when the modalities cue different levels
+  of generalization. Study 1 examines what combinations of linguistic and visual information
+  are common in elementary school science books. Studies 2–6 show that undergraduate
+  students rely primarily on the linguistic information when generalizing. Study 7
+  reduced the possible split of visual attention by reading out the text for participants
+  and shows that undergraduate students generalize more broadly when the information
+  in either modality promotes generalization, but their effect does not compound.
+  Study 8 shows that elementary school students generalize more broadly when the linguistic
+  information is broad, but the visual information is rich. These results suggest
+  that students across ages use linguistic features similarly to guide their generalizations,
+  but how they integrate the linguistic and visual information changes with age. Based
+  on these findings, I propose the cues to generality hypothesis, as an account of
+  how students use information in lessons to determine how far to generalize. (PsycInfo
+  Database Record (c) 2023 APA, all rights reserved) (Source: journal abstract) Lessons
+  often combine pictures and text, and the characteristics of both of these elements
+  influence generalization. Undergraduate students generalize more broadly when the
+  text contains generic noun phrases or the picture is bland, but elementary school
+  students generalize more broadly when the text contains generic noun phrases, and
+  the image is rich. This shows that how students use images to support their generalizations
+  changes with age. (PsycInfo Database Record (c) 2023 APA, all rights reserved)'
+tags:
+- Generic language
+- Cognitive Development
+- Developmental Psychology
+- Social and Behavioral Sciences
+- Learning
+- Perceptual richness
+- Multimedia learning
+- Text-picture integration
+- Cognitive Psychology
+- Concepts and Categories
+- Educational Psychology
+- Generalization
+- Learning Process
+- College Students (major)
+- Elementary School Students (major)
+- Generalization (Learning) (major)
+- Imagery (major)
+- Information (major)
+- Linguistics (major)
+links:
+- name: URL
+  url: https://www.proquest.com/docview/2866868246/abstract/286F9E24D1B6402EPQ/1
+---
