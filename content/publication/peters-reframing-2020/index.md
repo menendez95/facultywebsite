@@ -3,7 +3,7 @@ title: 'Reframing mental illness: The role of essentialism on perceived treatmen
   efficacy and stigmatization'
 authors:
 - Danielle Peters
-- David Menendez
+- admin
 - Karl Rosengren
 date: '2020-06-01'
 publishDate: '2025-09-02T23:34:32.580996Z'
