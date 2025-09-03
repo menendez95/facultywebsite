@@ -8,8 +8,8 @@ main:
     url: /
     weight: 10
   - name: Papers
-    url: /#papers
-    weight: 11
+    url: /#publications
+    weight: 20
   - name: Lab website
     url: https://crecelab.sites.ucsc.edu/
-    weight: 12
+    weight: 30
