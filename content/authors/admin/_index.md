@@ -3,7 +3,7 @@
 title: Prof. David Menendez
 
 # Name pronunciation (optional)
-name_pronunciation: David Menendez
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: David
@@ -14,7 +14,7 @@ pronouns: He/Him/Él
 
 # Status emoji
 status:
-  icon: 🔎
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
