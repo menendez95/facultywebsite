@@ -2,7 +2,7 @@
 title: Do details bug you? Effects of perceptual richness in learning about biological
   change
 authors:
-- David Menendez
+- admin
 - Karl S. Rosengren
 - Martha W. Alibali
 date: '2020-09-01'

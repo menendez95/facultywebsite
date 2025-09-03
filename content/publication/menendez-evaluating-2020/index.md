@@ -2,7 +2,7 @@
 title: 'Evaluating and communicating about the healthiness of foods: Predictors of
   parents’ judgments and parent-child conversations'
 authors:
-- David Menendez
+- admin
 - Matthew J. Jiang
 - Kaitlin M. Edwards
 - Karl S. Rosengren

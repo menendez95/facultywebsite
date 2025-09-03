@@ -1,7 +1,7 @@
 ---
 title: Children’s biological causal models of disability
 authors:
-- David Menendez
+- admin
 - Susan A. Gelman
 date: '2024-04-01'
 publishDate: '2025-09-02T23:34:32.762352Z'

@@ -2,7 +2,7 @@
 title: 'Embracing death: mexican parent and child perspectives on death'
 authors:
 - Isabel T. Gutiérrez
-- David Menendez
+- admin
 - Matthew J. Jiang
 - Iseli G. Hernandez
 - Peggy Miller

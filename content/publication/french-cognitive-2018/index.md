@@ -2,7 +2,7 @@
 title: Cognitive constraints influence an understanding of life-cycle change
 authors:
 - Jason A. French
-- David Menendez
+- admin
 - Patricia A. Herrmann
 - E. Margaret Evans
 - Karl S. Rosengren

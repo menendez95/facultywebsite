@@ -1,7 +1,7 @@
 ---
 title: Effects of priming variability on adults learning about metamorphosis
 authors:
-- David Menendez
+- admin
 - Martha W Alibali
 - Karl S Rosengren
 date: '2018-01-01'

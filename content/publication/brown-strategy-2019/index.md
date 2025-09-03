@@ -3,7 +3,7 @@ title: Strategy adoption depends on characteristics of the instruction, learner,
   strategy
 authors:
 - Sarah A. Brown
-- David Menendez
+- admin
 - Martha W. Alibali
 date: '2019-12-01'
 publishDate: '2025-09-02T23:34:32.611266Z'

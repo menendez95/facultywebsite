@@ -1,7 +1,7 @@
 ---
 title: U.S. adults' beliefs and explanations about health disparities
 authors:
-- David Menendez
+- admin
 - Danielle Labotka
 - Valerie A. Umscheid
 - Susan Gelman

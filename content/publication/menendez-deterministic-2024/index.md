@@ -1,7 +1,7 @@
 ---
 title: "Deterministic or probabilistic: U.S. children's beliefs about genetic inheritance"
 authors:
-- David Menendez
+- admin
 - Andrea Marquardt Donovan
 - Olympia N. Mathiaparanam
 - Vienne Seitz

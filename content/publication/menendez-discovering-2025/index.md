@@ -2,7 +2,7 @@
 title: 'Discovering the world of viruses: Testing the influence of anthropomorphic
   representations on children’s learning about COVID-19'
 authors:
-- David Menendez
+- admin
 - Emory Richardson
 - Kalina M. McNeil
 - Susan A. Gelman

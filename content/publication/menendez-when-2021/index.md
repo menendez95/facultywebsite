@@ -2,7 +2,7 @@
 title: “When will it be over?” U.S. children’s questions and parents’ responses about
   the COVID-19 pandemic
 authors:
-- David Menendez
+- admin
 - Rebecca E. Klapper
 - Michelle Z. Golden
 - Ava R. Mandel

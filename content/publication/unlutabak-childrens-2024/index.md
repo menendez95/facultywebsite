@@ -5,7 +5,7 @@ authors:
 - Burcu Ünlütabak
 - Graciela Trujillo Hernandez
 - İlayda Velioğlu
-- David Menendez
+- admin
 - Karl S. Rosengren
 date: '2024-07-01'
 publishDate: '2025-09-02T23:34:32.777629Z'

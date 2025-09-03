@@ -1,7 +1,7 @@
 ---
 title: 'Representing variability: the case of life cycle diagrams'
 authors:
-- David Menendez
+- admin
 - Olympia N. Mathiaparanam
 - David Liu
 - Vienne Seitz

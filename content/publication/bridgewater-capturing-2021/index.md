@@ -3,7 +3,7 @@ title: 'Capturing death in animated films: Can films stimulate parent-child conv
   about death?'
 authors:
 - Enrica E. Bridgewater
-- David Menendez
+- admin
 - Karl S. Rosengren
 date: '2021-07-01'
 publishDate: '2025-09-02T23:34:32.642816Z'

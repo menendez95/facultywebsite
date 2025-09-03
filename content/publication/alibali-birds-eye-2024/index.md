@@ -8,7 +8,7 @@ authors:
 - Rui Meng
 - Nicholas A. Vest
 - Victoria Jay
-- David Menendez
+- admin
 - Jennifer O. Murray
 - Andrea Marquardt Donovan
 - Lauren E. Anthony

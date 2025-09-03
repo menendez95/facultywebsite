@@ -3,7 +3,7 @@ title: How do people evaluate problem-solving strategies? Efficiency and intuiti
   matter
 authors:
 - Sarah A Brown
-- David Menendez
+- admin
 - Martha W Alibali
 date: '2018-01-01'
 publishDate: '2025-09-02T23:34:32.573624Z'

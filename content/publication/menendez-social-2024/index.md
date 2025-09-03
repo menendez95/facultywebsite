@@ -2,7 +2,7 @@
 title: "The social aspects of illness: Children's and parents' explanations of the
   relation between social categories and illness in a predominantly white U.S. sample"
 authors:
-- David Menendez
+- admin
 - Danielle Labotka
 - Valerie A. Umscheid
 - Susan A. Gelman

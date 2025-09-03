@@ -2,7 +2,7 @@
 title: Detailed bugs or bugging details? The influence of perceptual richness across
   elementary school years
 authors:
-- David Menendez
+- admin
 - Karl S. Rosengren
 - Martha W. Alibali
 date: '2022-01-01'

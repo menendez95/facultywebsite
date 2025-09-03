@@ -3,7 +3,7 @@ title: 'Adolescent predictors of incidence and persistence of suicide-related ou
   in young adulthood: a longitudinal study of mexican youth'
 authors:
 - Corina Benjet
-- David Menendez
+- admin
 - Yesica Albor
 - Guilherme Borges
 - Ricardo Orozco

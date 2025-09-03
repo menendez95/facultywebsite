@@ -3,7 +3,7 @@ title: '“What happens when you get corona?”: Children’s questions and pare
   about the COVID-19 pandemic'
 authors:
 - Graciela Trujillo Hernández
-- David Menendez
+- admin
 - Seung Heon Yoo
 - Rebecca E. Klapper
 - Maria H. Schapfel

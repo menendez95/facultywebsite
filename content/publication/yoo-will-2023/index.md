@@ -4,7 +4,7 @@ title: '“Will I Get Sick?”: Parents’ explanations to children’s question
 authors:
 - Seung Heon Yoo
 - Graciela Trujillo Hernandez
-- David Menendez
+- admin
 - Rebecca E. Klapper
 - Sarah Martin
 - Katrina A. Nicholas

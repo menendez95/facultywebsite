@@ -6,7 +6,7 @@ authors:
 - Corina Benjet
 - Ricardo Orozco
 - Maria-Elena Medina-Mora
-- David Menendez
+- admin
 date: '2017-08-01'
 publishDate: '2025-09-02T23:34:32.619324Z'
 publication_types:

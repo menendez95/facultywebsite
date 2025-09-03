@@ -5,7 +5,7 @@ authors:
 - Lucia Martinčeková
 - Matthew J. Jiang
 - Jamal D. Adams
-- David Menendez
+- admin
 - Iseli G. Hernandez
 - Gregory Barber
 - Karl S. Rosengren

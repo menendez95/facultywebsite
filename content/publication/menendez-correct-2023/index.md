@@ -2,7 +2,7 @@
 title: 'Some Correct Strategies Are Better Than Others: Individual Differences in
   Strategy Evaluations Are Related to Strategy Adoption'
 authors:
-- David Menendez
+- admin
 - Sarah A Brown
 - Martha W Alibali
 date: '2023-01-01'

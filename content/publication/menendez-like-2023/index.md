@@ -1,7 +1,7 @@
 ---
 title: 'Like mother, like daughter: Adults’ judgments about genetic inheritance.'
 authors:
-- David Menendez
+- admin
 - Olympia N. Mathiaparanam
 - Vienne Seitz
 - David Liu

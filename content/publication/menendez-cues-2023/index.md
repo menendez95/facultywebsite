@@ -2,7 +2,7 @@
 title: 'Cues to generality: Integrating linguistic and visual information when generalizing
   biological information'
 authors:
-- David Menendez
+- admin
 date: '2023-09-01'
 publishDate: '2025-09-02T23:34:32.721603Z'
 publication_types:

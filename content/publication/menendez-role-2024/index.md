@@ -2,7 +2,7 @@
 title: The role of visual representations in undergraduate students’ learning about
   genetic inheritance
 authors:
-- David Menendez
+- admin
 - Andrea Marquardt Donovan
 - Olympia N. Mathiaparanam
 - Rebecca E. Klapper

@@ -3,7 +3,7 @@ title: 'Understanding strategy change: contextual, individual, and metacognitive
 authors:
 - Martha W. Alibali
 - Sarah A. Brown
-- David Menendez
+- admin
 date: '2019-01-01'
 publishDate: '2025-09-02T23:34:32.714916Z'
 publication_types:

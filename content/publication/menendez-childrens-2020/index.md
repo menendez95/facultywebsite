@@ -1,7 +1,7 @@
 ---
 title: Children’s emerging understanding of death
 authors:
-- David Menendez
+- admin
 - Iseli G. Hernandez
 - Karl S. Rosengren
 date: '2020-03-01'

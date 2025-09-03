@@ -2,7 +2,7 @@
 title: 'Timelines or time cycles: exposure to different spatial representations of
   time influences sketching and diagram preferences'
 authors:
-- David Menendez
+- admin
 - Nour F Sabbagh
 - Martha W Alibali
 - Karl S Rosengren

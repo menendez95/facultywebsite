@@ -2,7 +2,7 @@
 title: 'COVID-19 and Child Adjustment: The role of Coparenting Conflict and Child
   Temperament'
 authors:
-- David Menendez
+- admin
 - Zhi Li
 - Rebecca E. Klapper
 - Karl. S. Rosengren

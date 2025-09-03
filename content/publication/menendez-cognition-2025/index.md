@@ -2,7 +2,7 @@
 title: 'Cognition in Action: The relation between physical and mental paper folding
   in young children'
 authors:
-- David Menendez
+- admin
 - Samuel Halama
 - Taylor M. Johnson
 - Karl Rosengren
