@@ -118,6 +118,6 @@ awards:
 
 ## About Me
 
-I am an assistant professor of Psychology at the University of California-Santa Cruz. I am an interdisciplinary scholar interested in the intersection of cognition, education, and child development. Some of my research projects have explored how children learn science concepts through conversations with parents, when and why people change the strategies they use to solve mathematics problems, and how visual representations influence learning and generalization. I am also interested in the role of culture and socialization practices on the development of cognition. I have examined how participating in cultural rituals like *dia de los muertos* shapes children's understanding of death, how teachers in the United States and Turkiye talked about the pandemic with their children, and how different communities within the United States think about illness.
+I am an assistant professor of Psychology at the University of California-Santa Cruz, and I direct the CRECE lab.
 
 I will be accepting graduate students to start in Fall 2026 in UC-Santa Cruz. If you are interested in how children learn scientific and social concepts, how we can improve science education, or how culture influences children's understanding of death, please email me! You can also check out my lab's website: https://crecelab.sites.ucsc.edu/
